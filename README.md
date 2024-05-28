@@ -1,4 +1,4 @@
-# ecommerce-powerbi
+# Ecommerce-powerbi
 
 ## Screenshot
 
